@@ -1,6 +1,6 @@
 This repository documents my Analytics Engineering learning path — covering advanced SQL, Kimball dimensional modeling, dbt Core, BigQuery, Airflow, and CI/CD. Each folder contains production-quality work with business context, optimization notes, and documentation.
-
-ae-portfolio/
+```
+ae-portfolio
 │
 ├── README.md
 │
@@ -27,3 +27,4 @@ ae-portfolio/
 │
 └── projects/
     └── README.md
+```
