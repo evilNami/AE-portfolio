@@ -1,2 +1,1 @@
-# AE-portfolio
-Analytics Engineering portfolio - advanced SQL, dimensional data models, dbt projects, and production pipelines built following a structured AE upskilling roadmap.
+This repository documents my Analytics Engineering learning path — covering advanced SQL, Kimball dimensional modeling, dbt Core, BigQuery, Airflow, and CI/CD. Each folder contains production-quality work with business context, optimization notes, and documentation.
