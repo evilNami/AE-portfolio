@@ -2,24 +2,28 @@ This repository documents my Analytics Engineering learning path — covering ad
 
 ae-portfolio/
 │
-├── README.md                          ← portfolio landing page
+├── README.md
 │
 ├── sql/
 │   ├── window_functions/
-│   │   ├── README.md                  ← what's in this folder
+│   │   ├── README.md
 │   │   ├── 01_row_number_rank.sql
 │   │   ├── 02_running_totals.sql
-│   │   └── ...
+│   │   └── 03_moving_averages.sql
 │   ├── ctes/
+│   │   └── README.md
 │   ├── query_optimization/
+│   │   └── README.md
 │   └── joins/
+│       └── README.md
 │
 ├── data_models/
-│   ├── README.md
 │   ├── ecommerce_star_schema/
-│   │   ├── schema.sql                 ← DDL
+│   │   ├── schema.sql
 │   │   ├── er_diagram.png
 │   │   └── README.md
 │   └── saas/
+│       └── README.md
 │
-└── projects/                          ← dbt projects
+└── projects/
+    └── README.md
